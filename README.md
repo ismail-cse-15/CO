@@ -1,2 +1,2 @@
 # CO
-This repository contains implementation of different combinatorial optimization problem
+This repository contains the implementation of different combinatorial optimization problem
